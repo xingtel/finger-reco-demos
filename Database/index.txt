@@ -1,0 +1,7 @@
+0 nil nil nil 1 Database/image_min/1.bmp Database/data/1.txt Database/image_thin/1.bmp
+2 Database/image_min/2.bmp Database/data/2.txt Database/image_thin/2.bmp
+3 Database/image_min/3.bmp Database/data/3.txt Database/image_thin/3.bmp
+4 Database/image_min/4.bmp Database/data/4.txt Database/image_thin/4.bmp
+5 Database/image_min/5.bmp Database/data/5.txt Database/image_thin/5.bmp
+6 Database/image_min/6.bmp Database/data/6.txt Database/image_thin/6.bmp
+7 Database/image_min/7.bmp Database/data/7.txt Database/image_thin/7.bmp
